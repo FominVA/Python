@@ -20,3 +20,6 @@ for i in range(n):
     for j in range(m):
         print(' '.join(str(desk[i][j])), end =' ')
     print()
+
+
+    changes
